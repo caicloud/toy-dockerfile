@@ -1,2 +1,2 @@
 # toy-dockerfile
-A small image used for fornax e2e
+A small image used for cyclone e2e test 
